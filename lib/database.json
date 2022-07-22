@@ -1,0 +1,98 @@
+{
+  "users": {
+    "918156874290@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285748733559@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6282114367104@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "918156874290@s.whatsapp.net": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022682639473@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6285748733559@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6282114367104@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "others": {},
+  "sticker": {},
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "918156874290@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    },
+    "6285748733559@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  },
+  "anonymous": {},
+  "store": [],
+  "RSticker": [],
+  "RImage": [],
+  "RVideo": [],
+  "RVn": []
+}
